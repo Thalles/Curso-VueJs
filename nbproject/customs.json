@@ -1,0 +1,13 @@
+{
+    "elements": {},
+    "attributes": {
+        ":class": {},
+        "v-bind:class": {},
+        "@click": {},
+        "@keyup": {},
+        "v-on:click": {},
+        "v-for": {},
+        "v-bind:": {},
+        "v-model": {}
+    }
+}

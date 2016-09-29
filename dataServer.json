@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "expressões Regulares",
+        "value": 23.50,
+        "description": "Livro de expressões regulares."
+    },
+    {
+        "id": 2,
+        "title": "Anjos e Demonios",
+        "value": 49.90,
+        "description": "Livro fala das aventuras de Robert Langdon."
+    },
+    {
+        "id": 3,
+        "title": "Os Espiões",
+        "value": 29.90,
+        "description": "Fala de três espiões muito atrapalhados."
+    },
+    {
+        "id": 4,
+        "title": "Ed Morte",
+        "value": 35.60,
+        "description": "Sem duvidas Ed Morte é um detetive atrapalhado."
+    },
+    {
+        "id": 5,
+        "title": "O Monge e o Executivo",
+        "value": 15.80,
+        "description": "Livro narra os encinamentos de um lider."
+    },
+    {
+        "id": 6,
+        "title": "Diario de Um Banana",
+        "value": 40.00,
+        "description": "Sem duvidas a vida na escola pode ser dura."
+    }
+]
